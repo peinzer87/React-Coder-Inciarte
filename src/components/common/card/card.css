@@ -1,0 +1,12 @@
+.product-card {
+  text-align: center;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 12.5rem;
+  height: 15.625rem;
+  background-color: aquamarine;
+  border-radius: 10px;
+}

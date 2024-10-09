@@ -1,0 +1,21 @@
+.navbar-container {
+  background-color: rgb(62, 78, 78);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.25rem;
+}
+
+.logo-nav {
+  width: 4.25rem;
+  height: 4.25rem;
+}
+.navList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2.625rem;
+  list-style: none;
+  color: white;
+}
