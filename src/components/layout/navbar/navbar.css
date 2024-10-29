@@ -15,7 +15,9 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  gap: 2.625rem;
-  list-style: none;
+  gap: 5.625rem;
+}
+.navList a {
   color: white;
+  text-decoration: none;
 }

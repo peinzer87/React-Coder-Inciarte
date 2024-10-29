@@ -6,7 +6,11 @@
   justify-content: space-around;
   align-items: center;
   width: 12.5rem;
-  height: 15.625rem;
+  height: 19.625rem;
   background-color: aquamarine;
   border-radius: 10px;
+}
+img {
+  width: 100px;
+  padding: 5px;
 }
